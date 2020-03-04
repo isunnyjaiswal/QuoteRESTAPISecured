@@ -12,7 +12,7 @@
 		<springframework.version>4.3.18.RELEASE</springframework.version>
 		<springsecurity.version>4.1.1.RELEASE</springsecurity.version>
 		<springsecurityoauth2.version>2.0.17.RELEASE</springsecurityoauth2.version>
-		<jackson.library>2.9.8</jackson.library>
+		<jackson.library>2.10.3</jackson.library>
 		<gson.version>2.7</gson.version>
 	</properties>
   
